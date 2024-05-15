@@ -1,0 +1,11 @@
+.greenyellow{
+    color: greenyellow;
+    padding: 40px;
+    font-family: sans-serif;
+    text-align: center;
+}
+#myFontStyle{
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    color: coral;
+}
